@@ -1,0 +1,123 @@
+span {
+    margin: 20px 0px 4px 0px;
+  }
+  
+  .circle {
+    display: inline-block;
+    padding: 5px 11px;
+    background: #8795a1;
+    color: white;
+    border-radius: 50%;
+    font-size: 21px;
+    font-family: Lato;
+    font-size:17px;
+}
+
+.circle:first-child {
+  background: #3182CE;
+}
+  .balls {
+   display: flex;
+   justify-content: space-evenly;
+   padding: 0 100px;
+   
+  }
+
+  .details {
+    display: flex;
+    justify-content: space-around;
+    font-size: 13px;
+    padding: 0px 170px 0px 162px;
+    }
+
+    .details p {
+      margin-top: 6px;
+      color: #8795a1;
+      
+    }
+    .details p:first-child {
+      
+      color: #3182ce;
+    }
+
+    .container {
+      display: flex;
+      justify-content: center;
+      
+    }
+
+    .box {
+      border: solid red 2px;
+      height: 559px;
+      width: 375px;
+      Margin-top: 40px;
+    }
+    .abox {
+      padding-left: 26px;
+      height: 300px;
+      font-family: Lato;
+      color: #22292f;
+    }
+    .Bbox {
+      display: flex;
+      
+    }
+
+    .box-A {
+      height: 388px;
+      width: 373px;
+      Margin-top: 26px;
+      box-shadow: 0 4px 4px 0 rgba(135,149,161,0.50);
+      
+      border-radius: 3px;
+    }
+    .long {
+      width: 318px;
+      height: 30px;
+      margin-top: 6px;
+      background: #dae1e7;
+      border-radius: 3px;
+      border: none;
+    }
+    .email{
+      margin-top: 40px;
+      margin-bottom: 19px;
+      font-size: 17px;  
+    }
+
+    .password {
+      margin-bottom: 19px;
+      font-size: 17px;
+    }
+
+    .confirm {
+      font-size: 17px;
+    }
+
+    .button-blue {
+      height: 40px;
+      width: 80px;
+      background: #3182CE;
+      color: white;
+      border-radius: 4px;
+      font-size: 20px;
+    }
+
+    .wrap {
+      display: flex;
+      justify-content: flex-end;
+      padding-right: 26px;
+      padding-top: 7px;
+      }
+
+      .abox h1 {
+        font-weight: 400;
+      }
+      body {
+        margin-top: 21px;
+        background: #f8fafc;
+        }
+      
+    
+
+  
